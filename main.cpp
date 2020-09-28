@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bison
+//  action 1:   the bison eats
+bison.eat();
+//  action 2:   the bison flies
+bison.fly();
+//  action 3:   the bison fights for his territory
+ bision.fightForTerritory();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       jury
+//  action 1:   the jury votes
+jury.vote();
+//  action 2:   the jury deliberates 
+jury.deliberate();
+//  action 3:   the jury breaks for lunch
+jury.breakForLunch();
+ //  3)         
+//  Noun:       coat
+//  action 1:   the coat warms its wearer
+coat.warmWearer();
+//  action 2:   the coat unravels
+coat.unravel();
+//  action 3:   the coat carries fleas
+coat.carryFleas();
+ //  4)          
+//  Noun:       factory
+//  action 1:   the factory provides a workplace
+factory.provideWorkplace();
+//  action 2:   the factory burns down
+factory.burnDown();
+//  action 3:   the factory houses equipment
+factory.houseEquipment();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       spokesperson
+//  action 1:   the spokesperson pauses
+spokeperson.pause();
+//  action 2:   the spokesperson faints 
+spokesperson.faint();
+//  action 3:   the spokesperson taps the microphone
+spokesperson.tapMic();
+ //  6)
+//  Noun:       boat
+//  action 1:   the boat moves
+boat.move();
+//  action 2:   the boat carries passengers
+boat.carryPassengers();
+//  action 3:   the boat crosses the ocean
+ boat.crossOcean();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       drum
+//  action 1:   the drums resonates
+drum.resonate();
+//  action 2:   the drum rolls down a hill
+drum.rollDownHill();
+//  action 3:   the drum cracks in the heat
+ drum.crackInHeat();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       politician
+//  action 1:   the politician lies
+politician.lie();
+//  action 2:   the politician leads
+politician.lead();
+//  action 3:   the politician delivers a speech
+politician.deliverSpeech();
+//  9)          
+//  Noun:       picture
+//  action 1:   the picture conjures memories
+picture.conjureMemories();
+//  action 2:   the picture fills the frame
+picture.fillFrame();
+//  action 3:   the picture fades with time
+pciture.fadeWithTime();
+//  10)         
+//  Noun:       phone
+//  action 1:   the phone rings
+phone.ring();
+//  action 2:   the phone distracts
+phone.distract();
+//  action 3:   the phone connects to the operator
+ phone.connectToOperator();
 
 
 #endif
