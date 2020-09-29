@@ -108,13 +108,13 @@ drum.rollDownHill();
 //  action 3:   the drum cracks in the heat
  drum.crackInHeat();
 //  8)
-//  Noun:       politician
-//  action 1:   the politician lies
-politician.lie();
-//  action 2:   the politician leads
-politician.lead();
-//  action 3:   the politician delivers a speech
-politician.deliverSpeech();
+//  Noun:       coolCamperVan
+//  action 1:   the cool camper van pops its top
+coolCamperVan.popTop();
+//  action 2:   the cool camper van gets a flat tire
+coolCamperVan.getFlatTire();
+//  action 3:   the cool camper van draws too much attention when illegally camping
+coolCamperVan.drawTooMuchAttention();
 //  9)          
 //  Noun:       picture
 //  action 1:   the picture conjures memories
